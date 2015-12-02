@@ -5,3 +5,5 @@ The task is simple: Using your newly-acquired front-end ninja skills, build out 
 The site should consist of a home page and at least 4 sub-pages (for example, bio, teaching philosophy, hobbies, photos, etc). You should be writing HTML, CSS (both bootstrap and custom css), and (optionally) javascript to put this together.
 
 Send us your code when you think it's good to go!
+
+<a href='https://learn.co/lessons/tf-frontend-project' data-visibility='hidden'>View this lesson on Learn.co</a>
