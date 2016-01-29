@@ -6,4 +6,4 @@ The site should consist of a home page and at least 4 sub-pages (for example, bi
 
 Send us your code when you think it's good to go!
 
-<a href='https://learn.co/lessons/tf-frontend-project' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/tf-frontend-project' title='Front-End Prework Project'>Front-End Prework Project</a> on Learn.co and start learning to code for free.</p>
